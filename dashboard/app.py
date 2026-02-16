@@ -2,7 +2,13 @@
 
 This is a small interactive UI that uses the analytics module to display basic KPIs and charts.
 """
-from __future__ import annotations
+rom __future__ import annotations
+
+import sys
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT_DIR))
 
 import streamlit as st
 import plotly.express as px
