@@ -1,0 +1,10 @@
+fixture_id,model,serial_number,manufacturer,installed_date,location,machine_stage,spec_a,spec_b,expected_life_days,last_maintenance_date,status
+F0001,FX-AL-3,SN38073,VendorB,2025-11-27,Cell-2,drill,12.044,0.504,323,2026-01-24,active
+F0002,FX-XR-3,SN44039,VendorC,2025-09-24,Cell-3,finish,12.110,0.485,139,2025-10-19,active
+F0003,FX-XR-1,SN25811,VendorD,2025-05-09,Cell-2,mill,12.188,0.531,498,2025-08-16,active
+F0004,FX-AL-1,SN95056,VendorA,2025-08-21,Cell-1,drill,11.953,0.533,609,2025-11-14,active
+F0005,FX-BT-4,SN37261,VendorB,2025-08-23,Cell-6,drill,11.884,0.470,288,2025-09-09,active
+F0006,FX-CN-1,SN29606,VendorC,2025-11-18,Cell-4,mill,11.821,0.540,534,2026-01-20,active
+F0007,FX-CN-3,SN48570,VendorD,2025-03-06,Cell-4,mill,11.852,0.514,114,2025-03-29,active
+F0008,FX-XR-2,SN88663,VendorA,2025-09-11,Cell-3,drill,11.809,0.549,704,2026-01-03,active
+F0009,FX-CN-3,SN35533,VendorB,2025-03-22,Cell-4,finish,11.998,0.547,208,2025-04-12,active
