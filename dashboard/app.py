@@ -2,7 +2,7 @@
 
 This is a small interactive UI that uses the analytics module to display basic KPIs and charts.
 """
-rom __future__ import annotations
+from __future__ import annotations
 
 import sys
 from pathlib import Path
